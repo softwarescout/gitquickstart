@@ -1,5 +1,2 @@
-# gitquickstart
-1
-2
-3
-4
+THIS IS A README FILE
+This is a commentE
